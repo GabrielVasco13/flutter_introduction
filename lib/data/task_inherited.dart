@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_introduction/screen/Widgets/task.dart';
+import 'package:flutter_introduction/Widgets/task.dart';
 
 class TaskInherited extends InheritedWidget {
   TaskInherited({super.key, required this.child}) : super(child: child);
